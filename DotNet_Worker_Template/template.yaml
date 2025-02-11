@@ -25,7 +25,7 @@ spec:
           type: string
           description: GitHub username or organization owning the repository.
           enum:
-            - azarus-code
+            - richa-duggal
         description:
           title: Description
           type: string
