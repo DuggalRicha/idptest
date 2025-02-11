@@ -7,7 +7,7 @@ metadata:
   groups:
     - backend
 spec:
-  owner: aether_dev@techmahindra.com
+  owner: richa.duggal@hotmail.com
   type: Website
   parameters:
     - title: Service Information
